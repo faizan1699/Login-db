@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/faizan1699/Login-db/static/css/main.e6c13ad2.css",
+    "main.js": "/faizan1699/Login-db/static/js/main.83ae6b38.js",
+    "static/js/787.28cb0dcd.chunk.js": "/faizan1699/Login-db/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/faizan1699/Login-db/index.html",
+    "main.e6c13ad2.css.map": "/faizan1699/Login-db/static/css/main.e6c13ad2.css.map",
+    "main.83ae6b38.js.map": "/faizan1699/Login-db/static/js/main.83ae6b38.js.map",
+    "787.28cb0dcd.chunk.js.map": "/faizan1699/Login-db/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.83ae6b38.js"
+  ]
+}
